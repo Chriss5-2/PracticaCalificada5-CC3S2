@@ -1,0 +1,32 @@
+c15f882 Agregando videos por Sprint
+009a9a7 Pasando conftest job sin implementación
+11fa6fd Agregando salto de linea
+7decbca Arreglando pipeline
+c29f254 Arreglando pipeline
+8ce668c Arreglando sintaxis de .yml
+e8be9c8 Agregando lectura de subcarpetas yml
+9153407 Agregando lectura de subcarpetas yml
+daa722c Agregando lectura de yml
+7d09120 Agregando lectura de yml
+8e1e1b9 Agregando label
+7dc543d Añadiendo verificacion de politicas#
+bc27fea Agregando lectura de todos los policy en conftest
+7b5ffd9 Verificando archivos con pipeline
+9507443 Actualizando k8s_policy.yml
+d9e7b2d Actualizando .yml
+54415e7 Actualizando conftest policy
+c0e1eaf Actualizando conftest policy
+057eda2 Actualizando conftest policy
+99a5bd0 Modificando sintaxis de las politicas de conftest 2
+34b10fa Modificando sintaxis de las politicas de conftest
+ede06be Modificando sintaxis de las politicas de conftest
+8f6d94a Modificando sintaxis de las politicas de conftest
+7d4955b Actualizando políticas
+a98c13e Modificando instalación de conftest
+492c448 Actualizando k8s_policy.yml
+95a872f Agregando reglas conftest
+72ad15d Agregando k8s
+44bda75 Agregando nuevo pipeline k8s_policy.yml
+2fd1645 Merge pull request #6 from Grupo2-CC3S2/develop
+dc8c2bc Merge pull request #5 from Grupo2-CC3S2/feature/docker_compose-luna
+121f477 Merge pull request #4 from Grupo2-CC3S2/bakend-gateway

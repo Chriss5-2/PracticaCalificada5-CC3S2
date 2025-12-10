@@ -1,0 +1,18 @@
+a5627f8 Agregando nuevo pipeline k8s_policy.yml
+38de39e Agregando reglas de Conftest
+d78e140 Agregando k8s
+402bc6a Agregando espera a gateway
+0f0ab64 Arreglando sintaxis del ci.yml
+4de2000 Actualizando make build y make run
+d0de252 Arreglando pipeline
+7f8381f Borrando lineas pasadas
+a783810 Actualizando acceso a tester
+127e195 Actualizando jobs con docker compose
+b659cdf Actualizando documentación para sprint 2
+f7f9b1a Agregando logs para gateway
+7013e3c Agregando docker compose
+0f842b1 Actualizando pipeline
+4d346a4 Agregando middleware para registrar cada request como JSON
+0645191 Añadiendo rate limiting con bloqueo 429 en backend y gateway
+60a46d2 Merge pull request #3 from Grupo2-CC3S2/develop
+0107a61 Merge pull request #2 from Grupo2-CC3S2/feature/gateway-luna

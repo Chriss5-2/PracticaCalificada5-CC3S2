@@ -1,0 +1,22 @@
+d0c67b5 Agregando datos de prueba en el backend
+afff72b Excluyendo peticiones http
+f52978f Ejecutando petición HTTP mediante ruta de la red creada
+be54af5 Instalando comando curl en el contenedor
+ec44043 Ejecutando petición HTTP dentro del contenedor
+fd55700 Actualizando Makefile para compatabilidad con Github Actions
+b909898 Merge pull request #1 from Grupo2-CC3S2/backend-fastapi-yorklin
+6dcef8a Agregando pipeline base
+f93b59d Añadiendo Makefile
+46fe91c Añadiendo pruebas para la conexion gateway
+49f4c80 Añadiendo requirements.txt global
+b7324db Añadiendo gateway con conexión a backend
+f2a1dfa Añadiendo requirements.txt
+610d685 Excluyendo entorno virtual
+6117ed6 Añadiendo Dockerfiles para backend y gateway
+c066a2f Añadiendo .gitignore
+2535ad2 Añadiento /data y /admin
+5093ed6 Añadiendo documentación Sprint 1
+b864d43 Agregando endpoint solo para administradores
+f53bba8 Agregando endpoint de data de ejemplo
+147cf4f Agregando api con consulta de salud
+c9d8c54 Initial commit
